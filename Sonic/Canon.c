@@ -96,7 +96,7 @@ void Canon(void)
 	RythmeC[18] = 8;
 	NoteC[19] = Do1;
 	RythmeC[19] = 8;
-	NoteC[20] = 200;
+	NoteC[20] = 230;
 	RythmeC[20] = 8;
 	NoteC[21] = So1;
 	RythmeC[21] = 8;
@@ -187,7 +187,7 @@ void Canon(void)
 	//
 	NoteC[64] = Do1;
 	RythmeC[64] = 8;
-	NoteC[65] = 190;
+	NoteC[65] = 200;
 	RythmeC[65] = 8;
 	NoteC[66] = La1;
 	RythmeC[66] = 8;
@@ -320,5 +320,381 @@ void Canon(void)
 	RythmeC[129] = 16;
 	NoteC[130] = La1;
 	RythmeC[130] = 16;
+	//
+	NoteC[131] = Fa1;
+	RythmeC[131] = 8;
+	NoteC[132] = La1;
+	RythmeC[132] = 16;
+	NoteC[133] = So1;
+	RythmeC[133] = 16;
+	NoteC[134] = La1;
+	RythmeC[134] = 8;
+	NoteC[135] = Si1;
+	RythmeC[135] = 16;
+	NoteC[136] = Do2;
+	RythmeC[136] = 16;
+	NoteC[137] = So1;
+	RythmeC[137] = 16;
+	NoteC[138] = La1;
+	RythmeC[138] = 16;
+	NoteC[139] = Si1;
+	RythmeC[139] = 16;
+	NoteC[140] = Do2;
+	RythmeC[140] = 16;
+	NoteC[141] = Re2;
+	RythmeC[141] = 16;
+	NoteC[142] = Mi2;
+	RythmeC[142] = 16;
+	NoteC[143] = Fa2;
+	RythmeC[143] = 16;
+	NoteC[144] = So2;
+	RythmeC[144] = 16;
+	//
+	NoteC[145] = Mi2;
+	RythmeC[145] = 8;
+	NoteC[146] = Do2;
+	RythmeC[146] = 16;
+	NoteC[147] = Re2;
+	RythmeC[147] = 16;
 	
+	NoteC[148] = Mi2;
+	RythmeC[148] = 8;
+	NoteC[149] = Re2;
+	RythmeC[149] = 16;
+	NoteC[150] = Do2;
+	RythmeC[150] = 16;
+	
+	NoteC[151] = Re2;
+	RythmeC[151] = 16;
+	NoteC[152] = Si1;
+	RythmeC[152] = 16;
+	NoteC[153] = Do2;
+	RythmeC[153] = 16;
+	NoteC[154] = Re2;
+	RythmeC[154] = 16;
+	
+	NoteC[155] = Mi2;
+	RythmeC[155] = 16;
+	NoteC[156] = Re2;
+	RythmeC[156] = 16;
+	NoteC[157] = Do2;
+	RythmeC[157] = 16;
+	NoteC[158] = Si1;
+	RythmeC[158] = 16;
+	//
+	NoteC[159] = Do2;
+	RythmeC[159] = 8;
+	NoteC[160] = La1;
+	RythmeC[160] = 16;
+	NoteC[161] = Si1;
+	RythmeC[161] = 16;
+	
+	NoteC[162] = Do2;
+	RythmeC[162] = 8;
+	NoteC[163] = Do1;
+	RythmeC[163] = 16;
+	NoteC[164] = Re1;
+	RythmeC[164] = 16;
+	
+	NoteC[165] = Mi1;
+	RythmeC[165] = 16;
+	NoteC[166] = Fa1;
+	RythmeC[166] = 16;
+	NoteC[167] = Mi1;
+	RythmeC[167] = 16;
+	NoteC[168] = Re1;
+	RythmeC[168] = 16;
+	
+	NoteC[169] = Mi1;
+	RythmeC[169] = 16;
+	NoteC[170] = Do2;
+	RythmeC[170] = 16;
+	NoteC[171] = Si1;
+	RythmeC[171] = 16;
+	NoteC[172] = Do2;
+	RythmeC[172] = 16;
+	//
+	NoteC[173] = La1;
+	RythmeC[173] = 8;
+	NoteC[174] = Do2;
+	RythmeC[174] = 16;
+	NoteC[175] = Si1;
+	RythmeC[175] = 16;
+	
+	NoteC[176] = La1;
+	RythmeC[176] = 8;
+	NoteC[177] = So1;
+	RythmeC[177] = 16;
+	NoteC[178] = Fa1;
+	RythmeC[178] = 16;
+	
+	NoteC[179] = So1;
+	RythmeC[179] = 16;
+	NoteC[180] = Fa1;
+	RythmeC[180] = 16;
+	NoteC[181] = Mi1;
+	RythmeC[181] = 16;
+	NoteC[182] = Fa1;
+	RythmeC[182] = 16;
+	
+	NoteC[183] = So1;
+	RythmeC[183] = 16;
+	NoteC[184] = La1;
+	RythmeC[184] = 16;
+	NoteC[185] = Si1;
+	RythmeC[185] = 16;
+	NoteC[186] = Do1;
+	RythmeC[186] = 16;
+	//
+	NoteC[187] = La1;
+	RythmeC[187] = 8;
+	NoteC[188] = Do2;
+	RythmeC[188] = 16;
+	NoteC[189] = Si1;
+	RythmeC[189] = 16;
+	
+	NoteC[190] = Do2;
+	RythmeC[190] = 8;
+	NoteC[191] = Si1;
+	RythmeC[191] = 16;
+	NoteC[192] = La1;
+	RythmeC[192] = 16;
+	
+	NoteC[193] = Si1;
+	RythmeC[193] = 16;
+	NoteC[194] = Do2;
+	RythmeC[194] = 16;
+	NoteC[195] = Re2;
+	RythmeC[195] = 16;
+	NoteC[196] = Do2;
+	RythmeC[196] = 16;
+	
+	NoteC[197] = Si1;
+	RythmeC[197] = 16;
+	NoteC[198] = Do2;
+	RythmeC[198] = 16;
+	NoteC[199] = La1;
+	RythmeC[199] = 16;
+	NoteC[200] = Si1;
+	RythmeC[200] = 16;
+	//
+	//
+	NoteC[201] = Mi2;
+	RythmeC[201] = 8;
+	NoteC[202] = Mi1;
+	RythmeC[202] = 8;
+	NoteC[203] = Fa1;
+	RythmeC[203] = 8;
+	NoteC[204] = Mi1;
+	RythmeC[204] = 8;
+	
+	NoteC[205] = Re1;
+	RythmeC[205] = 8;
+	NoteC[206] = Re2;
+	RythmeC[206] = 8;
+	NoteC[207] = Mi2;
+	RythmeC[207] = 8;
+	NoteC[208] = Re2;
+	RythmeC[208] = 8;
+	//
+	NoteC[209] = Do2;
+	RythmeC[209] = 8;
+	NoteC[210] = Mi1;
+	RythmeC[210] = 8;
+	NoteC[211] = Do1;
+	RythmeC[211] = 8;
+	NoteC[212] = La1;
+	RythmeC[212] = 8;
+	
+	NoteC[213] = So1;
+	RythmeC[213] = 8;
+	NoteC[214] = 5;
+	RythmeC[214] = 8;
+	NoteC[215] = 4;
+	RythmeC[215] = 8;
+	NoteC[216] = 5;
+	RythmeC[216] = 8;
+	//
+	NoteC[217] = 6;
+	RythmeC[217] = 8;
+	NoteC[218] = La1;
+	RythmeC[218] = 8;
+	NoteC[219] = Si1;
+	RythmeC[219] = 8;
+	NoteC[220] = La1;
+	RythmeC[220] = 8;
+	
+	NoteC[221] = Si1;
+	RythmeC[221] = 8;
+	NoteC[222] = 5;
+	RythmeC[222] = 8;
+	NoteC[223] = 4;
+	RythmeC[223] = 8;
+	NoteC[224] = 5;
+	RythmeC[224] = 8;
+	//
+	NoteC[225] = 6;
+	RythmeC[225] = 8;
+	NoteC[226] = La1;
+	RythmeC[226] = 8;
+	NoteC[227] = So1;
+	RythmeC[227] = 8;
+	NoteC[228] = La1;
+	RythmeC[228] = 8;
+	
+	NoteC[229] = Si1;
+	RythmeC[229] = 8;
+	NoteC[230] = Si1;
+	RythmeC[230] = 8;
+	NoteC[231] = La1;
+	RythmeC[231] = 8;
+	NoteC[232] = Si1;
+	RythmeC[232] = 8;
+	//
+	
+	NoteC[233] = Do1;
+	RythmeC[233] = 8;
+	NoteC[234] = Do2;
+	RythmeC[234] = 8;
+	NoteC[235] = Re2;
+	RythmeC[235] = 8;
+	NoteC[236] = Do2;
+	RythmeC[236] = 8;
+	
+	NoteC[237] = Si1;
+	RythmeC[237] = 8;
+	NoteC[238] = 7;
+	RythmeC[238] = 8;
+	NoteC[239] = Do1;
+	RythmeC[239] = 8;
+	NoteC[240] = 7;
+	RythmeC[240] = 8;
+	//
+	NoteC[241] = 6;
+	RythmeC[241] = 8;
+	NoteC[242] = La1;
+	RythmeC[242] = 8;
+	NoteC[243] = So1;
+	RythmeC[243] = 8;
+	NoteC[244] = La1;
+	RythmeC[244] = 8;
+	
+	NoteC[245] = Si1;
+	RythmeC[245] = 8;
+	NoteC[246] = 7;
+	RythmeC[246] = 8;
+	NoteC[247] = Mi1;
+	RythmeC[247] = 8;
+	NoteC[248] = Re1;
+	RythmeC[248] = 8;
+	//
+	NoteC[249] = Do1;
+	RythmeC[249] = 8;
+	NoteC[250] = Do2;
+	RythmeC[250] = 8;
+	NoteC[251] = Re2;
+	RythmeC[251] = 8;
+	NoteC[252] = Fa2;
+	RythmeC[252] = 8;
+	
+	NoteC[253] = Mi2;
+	RythmeC[253] = 8;
+	NoteC[254] = Mi1;
+	RythmeC[254] = 8;
+	NoteC[255] = So1;
+	RythmeC[255] = 8;
+	NoteC[256] = Mi2;
+	RythmeC[256] = 8;
+	//
+	NoteC[257] = Do2;
+	RythmeC[257] = 8;
+	NoteC[258] = Fa2;
+	RythmeC[258] = 8;
+	NoteC[259] = Mi2;
+	RythmeC[259] = 8;
+	NoteC[260] = Fa2;
+	RythmeC[260] = 8;
+	
+	NoteC[261] = Re2;
+	RythmeC[261] = 8;
+	NoteC[262] = So1;
+	RythmeC[262] = 8;
+	NoteC[263] = Fa1;
+	RythmeC[263] = 8;
+	NoteC[264] = So1;
+	RythmeC[264] = 8;
+	//
+	//
+	NoteC[265] = Mi1;
+	RythmeC[265] = 8;
+	NoteC[266] = Do2;
+	RythmeC[266] = 16;
+	NoteC[267] = Si1;
+	RythmeC[267] = 16;
+	
+	NoteC[268] = Do2;
+	RythmeC[268] = 8;
+	NoteC[269] = Mi1;
+	RythmeC[269] = 8;
+	
+	NoteC[270] = So1;
+	RythmeC[270] = 8;
+	NoteC[271] = So1;
+	RythmeC[271] = 16;
+	NoteC[272] = La1;
+	RythmeC[272] = 16;
+	
+	NoteC[273] = Si1;
+	RythmeC[273] = 8;
+	NoteC[274] = So1;
+	RythmeC[274] = 8;
+	//
+	NoteC[275] = Mi1;
+	RythmeC[275] = 8;
+	NoteC[276] = Do2;
+	RythmeC[276] = 16;
+	NoteC[277] = Re2;
+	RythmeC[277] = 16;
+	
+	NoteC[278] = Mi2;
+	RythmeC[278] = 8;
+	NoteC[279] = Do2;
+	RythmeC[279] = 8;
+	
+	NoteC[280] = Mi2;
+	RythmeC[280] = 8;
+	NoteC[281] = Mi2;
+	RythmeC[281] = 16;
+	NoteC[282] = Re2;
+	RythmeC[282] = 16;
+	
+	NoteC[283] = Do2;
+	RythmeC[283] = 8;
+	NoteC[284] = Si1;
+	RythmeC[284] = 8;
+	//
+	NoteC[285] = La1;
+	RythmeC[285] = 8;
+	NoteC[286] = La1;
+	RythmeC[286] = 16;
+	NoteC[287] = So1;
+	RythmeC[287] = 16;
+	
+	NoteC[288] = La1;
+	RythmeC[288] = 8;
+	NoteC[289] = Si1;
+	RythmeC[289] = 8;
+	
+	NoteC[290] = Do2;
+	RythmeC[290] = 8;
+	NoteC[291] = Mi2;
+	RythmeC[291] = 16;
+	NoteC[292] = Re2;
+	RythmeC[292] = 16;
+	
+	NoteC[293] = Do2;
+	RythmeC[293] = 8;
+	NoteC[294] = Mi2;
+	RythmeC[294] = 8;
+	//
 }
