@@ -9,7 +9,7 @@
 #ifndef CANON_H_
 #define CANON_H_
 
-#define NoteNumber 131
+#define NoteNumber 295
 //**************define all the frequecy of notes************************************
 #define Do1 262
 #define Re1 294
